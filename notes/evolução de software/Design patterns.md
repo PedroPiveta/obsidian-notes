@@ -1,0 +1,4 @@
+## Tipos de:
+---
+- Criacional
+- Estrutural
