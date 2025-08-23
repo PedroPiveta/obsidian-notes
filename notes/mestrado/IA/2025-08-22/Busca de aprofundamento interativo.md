@@ -1,0 +1,1 @@
+Usado quando não conheço o limite.

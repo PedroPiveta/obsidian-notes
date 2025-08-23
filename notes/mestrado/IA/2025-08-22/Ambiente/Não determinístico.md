@@ -1,0 +1,1 @@
+Probabilidade de não conseguir resolver o problema é a mesma de conseguir resolver.

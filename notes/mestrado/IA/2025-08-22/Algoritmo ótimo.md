@@ -1,0 +1,1 @@
+Sempre resolve o problema com a melhor solução

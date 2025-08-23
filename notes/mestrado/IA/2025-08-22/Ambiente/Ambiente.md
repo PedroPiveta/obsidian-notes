@@ -1,0 +1,8 @@
+- Ambiente está limitado ao problema a ser resolvido
+- Completamente ou parcialmente observável
+- [[Determinístico]] / [[Estocástico]] / [[Não determinístico]]
+- Estático (sem influência de fora do ambiente) ou dinâmico
+- Discreto ou contínuo
+- Episódico (ir pro próximo estado só depende do estado atual) ou sequencial (depende das ações passadas, memória)
+- Conhecido ou desconhecido
+- Agente único ou multiagente

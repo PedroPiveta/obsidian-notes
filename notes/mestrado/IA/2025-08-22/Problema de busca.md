@@ -1,0 +1,6 @@
+- Estados
+- Estado inicial
+- Ações
+- Modelo de transição
+- Teste de objetivo
+- Métrica de custo

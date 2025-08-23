@@ -1,0 +1,1 @@
+Situação onde sempre é possível resolver o problema.

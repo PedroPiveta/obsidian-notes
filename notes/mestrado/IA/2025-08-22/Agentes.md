@@ -1,0 +1,2 @@
+- Sensores - detectam informações sobre o ambiente
+- Atuadores - atuam baseados nas informações dos sensores

@@ -1,0 +1,6 @@
+- Árvore ou grafo de busca
+- Nós representam estados
+- Arestas representam ações
+- Expandir um nó: Pai -> Filho
+- Nós não expandidos: Folhas; Lista aberta; Borda; Fronteira
+- Nós expandidos: Conjunto já explorado; Nós fechados

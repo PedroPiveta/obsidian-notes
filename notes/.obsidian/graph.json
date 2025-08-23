@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:mestrado ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -33,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 5407200
+      }
+    },
+    {
+      "query": "path:mestrado/IA  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
       }
     }
   ],

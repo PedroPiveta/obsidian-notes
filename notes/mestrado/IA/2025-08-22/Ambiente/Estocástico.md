@@ -1,0 +1,1 @@
+Probabilidade equilibrada em conseguir resolver o problema.
