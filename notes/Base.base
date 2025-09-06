@@ -1,0 +1,24 @@
+formulas:
+  Path: file.inFolder("mestrado")
+  Mestrado: 'if(file.inFolder("mestrado"), file) '
+properties:
+  formula.Path:
+    displayName: Mestrado
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Mestrado
+    sort:
+      - property: formula.Mestrado
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: formula.Path
+        direction: DESC
+    columnSize:
+      file.name: 281
+  - type: cards
+    name: View
+    order:
+      - file.name

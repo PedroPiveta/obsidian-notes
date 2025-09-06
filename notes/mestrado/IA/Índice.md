@@ -1,5 +1,9 @@
-- [[Aula 2025-08-22]]
+- [[Aula 2025-08-22]] -> [[Desenhos.canvas|Desenhos]]
 - [[Aula 2025-08-23]]
+- [[Aula 2025-09-04]]
+- [[Aula 2025-09-05]]
+Possível questão: oq fazer caso a solução não caiba na memória
+Pode trazer uma folha a4 como cola, escrita a mão.
 
 | Algoritmo                              | Completo | Ótimo | Tempo    | Espaço   |
 | -------------------------------------- | -------- | ----- | -------- | -------- |

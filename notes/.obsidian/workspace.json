@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f584e3e214080e4",
+        "id": "9bbd4597b8d45133",
         "type": "tabs",
         "children": [
           {
-            "id": "e92bf713898d0d7e",
+            "id": "6b7c2e1dabde7e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mestrado/IA/Índice.md",
+                "file": "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Índice"
+              "title": "Aula 2025-09-05"
             }
           },
           {
-            "id": "1ae627e05eef749e",
+            "id": "c633c4ad9907becc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mestrado/IA/2025-08-22/Ambiente/Ambiente.md",
+                "file": "mestrado/IA/2025-09-04/Aula 2025-09-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ambiente"
+              "title": "Aula 2025-09-04"
             }
           }
         ]
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213
   },
   "right": {
     "id": "39a8bcbacd03492a",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mestrado/IA/2025-08-22/2025-08-22.md",
+                "file": "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-22"
+              "title": "Backlinks for Aula 2025-09-05"
             }
           },
           {
@@ -198,43 +198,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e92bf713898d0d7e",
+  "active": "6b7c2e1dabde7e3b",
   "lastOpenFiles": [
-    "mestrado/IA/2025-08-22/Aula 2025-08-22.md",
-    "mestrado/IA/2025-08-22/Ambiente/Ambiente.md",
-    "mestrado/IA/2025-08-22/Ambiente",
+    "mestrado/IA/Trabalho.md",
+    "mestrado/IA/2025-09-04/Aula 2025-09-04.md",
+    "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
     "mestrado/IA/Índice.md",
-    "mestrado/IA/2025-08-22/Agentes.md",
-    "mestrado/IA/2025-08-22/Problema de busca.md",
+    "evolução de software/Design patterns.md",
+    "Base.base",
+    "mestrado/IA/2025-09-05/Simulated-Annealing.png",
+    "mestrado/IA/2025-09-05/ex.png",
+    "mestrado/IA/2025-09-05/2025-09-05.md",
+    "mestrado/IA/2025-09-05",
+    "python-telegram/Instruções python.md",
+    "Untitled.md",
+    "python-telegram/Criação do bot.md",
+    "mestrado/IA/2025-08-22/Ambiente/Ambiente.md",
+    "mestrado/IA/2025-08-23/Aula 2025-08-23.md",
+    "mestrado/IA/2025-09-04/minimax.jpeg",
+    "mestrado/IA/2025-09-04",
+    "mestrado/IA/2025-08-22/Busca de aprofundamento interativo.md",
+    "mestrado/IA/2025-08-22/Busca em largura.md",
+    "mestrado/IA/2025-08-22/Aula 2025-08-22.md",
+    "mestrado/IA/2025-08-22/Algoritmo ótimo.md",
+    "mestrado/IA/2025-08-22/Algoritmo completo.md",
     "mestrado/IA/2025-08-22/Ambiente/Não determinístico.md",
     "mestrado/IA/2025-08-22/Ambiente/Estocástico.md",
     "mestrado/IA/2025-08-22/Ambiente/Determinístico.md",
+    "mestrado/IA/2025-08-22/IA-2025-03-19-1356.svg",
+    "mestrado/IA/2025-08-22/Desenhos.canvas",
     "mestrado/IA/2025-08-22/Busca no espaço de estados.md",
-    "mestrado/IA/2025-08-22/Busca em profundidade.md",
-    "mestrado/IA/2025-08-22/Busca de aprofundamento interativo.md",
-    "mestrado/IA/2025-08-22/Busca em largura.md",
-    "mestrado/IA/2025-08-22/Algoritmo ótimo.md",
-    "mestrado/IA/2025-08-22/Algoritmo completo.md",
-    "mestrado/IA/2025-08-23/Aula 2025-08-23.md",
+    "mestrado/IA/2025-08-22/Problema de busca.md",
+    "mestrado/IA/2025-08-22/Agentes.md",
+    "dhcp_server/Instalação.md",
+    "tmux/window.md",
+    "tmux/tmux.md",
+    "tmux/session.md",
+    "tmux",
+    "mestrado/IA/2025-08-22/Ambiente",
     "Untitled.canvas",
     "mestrado/IA/2025-08-23",
     "mestrado/IA/2025-08-22.zip",
     "mestrado/IA/2025-08-22",
     "mestrado/IA",
-    "evolução de software/Design patterns.md",
-    "python-telegram/Criação do bot.md",
-    "docker/docker run.md",
-    "python-telegram/Instruções python.md",
-    "profissional de TI/LGPD - Lei Geral de Proteção de dados.md",
-    "profissional de TI/Marco civil da Internet.md",
-    "dhcp_server/Instalação.md",
-    "docker/Docker.md",
-    "docker/docker pull.md",
-    "empreendendorismo/31-10-2024.md",
-    "mestrado",
-    "dhcp_server",
-    "python-telegram",
-    "docker",
-    "evolução de software"
+    "mestrado"
   ]
 }

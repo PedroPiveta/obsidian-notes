@@ -1,0 +1,11 @@
+- Desenvolver um programa que joga o jogo da onça
+- Usando Redis como um servidor
+- Objetivo da onça é tirar 5 cães
+- Objetivo dos cães é fazer a onça não poder se movimentar
+- Jogador dos cães tem 6 movimentos iniciais
+- Onça sempre começa
+- Jogador dos cães pode mover apenas um cão
+- Onça "captura" os cães como se fossem peças de dama
+- Desenvolver a máquina de busca, escrever o movimento e passar pra entidade "Tabuleiro"
+- Usar a poda $\alpha \beta$
+## Prazo: 16/11
