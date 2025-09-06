@@ -2,6 +2,7 @@
 - [[Aula 2025-08-23]]
 - [[Aula 2025-09-04]]
 - [[Aula 2025-09-05]]
+- [[Aula 2025-09-06]]
 Possível questão: oq fazer caso a solução não caiba na memória
 Pode trazer uma folha a4 como cola, escrita a mão.
 

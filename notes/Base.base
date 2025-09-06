@@ -1,6 +1,7 @@
 formulas:
   Path: file.inFolder("mestrado")
   Mestrado: 'if(file.inFolder("mestrado"), file) '
+  Count: file.folder.length
 properties:
   formula.Path:
     displayName: Mestrado
@@ -9,15 +10,18 @@ views:
     name: Table
     order:
       - formula.Mestrado
+      - formula.Count
     sort:
       - property: formula.Mestrado
+        direction: ASC
+      - property: formula.Count
         direction: ASC
       - property: file.name
         direction: ASC
       - property: formula.Path
         direction: DESC
     columnSize:
-      file.name: 281
+      formula.Mestrado: 264
   - type: cards
     name: View
     order:

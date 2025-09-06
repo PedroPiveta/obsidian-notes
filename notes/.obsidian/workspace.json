@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b7c2e1dabde7e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aula 2025-09-05"
-            }
-          },
-          {
             "id": "c633c4ad9907becc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mestrado/IA/2025-09-04/Aula 2025-09-04.md",
+                "file": "mestrado/IA/2025-09-06/Aula 2025-09-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aula 2025-09-04"
+              "title": "Aula 2025-09-06"
+            }
+          },
+          {
+            "id": "4a3f0c913b771dda",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Base.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Base"
+            }
+          },
+          {
+            "id": "6d79a8f5a8dd1af9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,8 +178,19 @@
               "icon": "lucide-list",
               "title": "Outline of 31-10-2024"
             }
+          },
+          {
+            "id": "070ae806765ed671",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,27 +205,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b7c2e1dabde7e3b",
+  "active": "c633c4ad9907becc",
   "lastOpenFiles": [
-    "mestrado/IA/Trabalho.md",
-    "mestrado/IA/2025-09-04/Aula 2025-09-04.md",
-    "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
-    "mestrado/IA/Índice.md",
-    "evolução de software/Design patterns.md",
     "Base.base",
+    "mestrado/IA/2025-09-06/Aula 2025-09-06.md",
+    "mestrado/IA/2025-09-06/Strips.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-09-06 08.45.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-05 21.42.30.excalidraw.md",
     "mestrado/IA/2025-09-05/Simulated-Annealing.png",
+    "mestrado/IA/Índice.md",
+    "mestrado/IA/Trabalho.md",
+    "mestrado/IA/2025-09-05/Aula 2025-09-05.md",
+    "mestrado/IA/2025-09-06/Drawing 2025-09-06 08.45.32.excalidraw.png",
+    "mestrado/IA/2025-08-22/IA-2025-03-19-1356.svg",
+    "mestrado/IA/2025-08-22/Desenhos.canvas",
+    "mestrado/IA/2025-09-04/minimax.jpeg",
+    "mestrado/IA/2025-09-06",
+    "mestrado/IA/2025-09-04/Aula 2025-09-04.md",
+    "Excalidraw",
+    "evolução de software/Design patterns.md",
     "mestrado/IA/2025-09-05/ex.png",
     "mestrado/IA/2025-09-05/2025-09-05.md",
     "mestrado/IA/2025-09-05",
     "python-telegram/Instruções python.md",
-    "Untitled.md",
     "python-telegram/Criação do bot.md",
     "mestrado/IA/2025-08-22/Ambiente/Ambiente.md",
     "mestrado/IA/2025-08-23/Aula 2025-08-23.md",
-    "mestrado/IA/2025-09-04/minimax.jpeg",
     "mestrado/IA/2025-09-04",
     "mestrado/IA/2025-08-22/Busca de aprofundamento interativo.md",
     "mestrado/IA/2025-08-22/Busca em largura.md",
@@ -225,22 +246,13 @@
     "mestrado/IA/2025-08-22/Ambiente/Não determinístico.md",
     "mestrado/IA/2025-08-22/Ambiente/Estocástico.md",
     "mestrado/IA/2025-08-22/Ambiente/Determinístico.md",
-    "mestrado/IA/2025-08-22/IA-2025-03-19-1356.svg",
-    "mestrado/IA/2025-08-22/Desenhos.canvas",
     "mestrado/IA/2025-08-22/Busca no espaço de estados.md",
     "mestrado/IA/2025-08-22/Problema de busca.md",
-    "mestrado/IA/2025-08-22/Agentes.md",
-    "dhcp_server/Instalação.md",
-    "tmux/window.md",
-    "tmux/tmux.md",
-    "tmux/session.md",
     "tmux",
     "mestrado/IA/2025-08-22/Ambiente",
     "Untitled.canvas",
     "mestrado/IA/2025-08-23",
     "mestrado/IA/2025-08-22.zip",
-    "mestrado/IA/2025-08-22",
-    "mestrado/IA",
-    "mestrado"
+    "mestrado/IA/2025-08-22"
   ]
 }
